@@ -1,3 +1,6 @@
+#Questao 2
+#Leonardo Pinheiro do Nascimento
+
 def lerInteiro(limiteMax):
 	m = []
 	for i in range(0,limiteMax):

@@ -1,3 +1,6 @@
+#Questao 6
+#Leonardo Pinheiro do Nascimento
+
 def lerNotas(limiteMax):
 	m = []
 	for i in range(0,limiteMax):

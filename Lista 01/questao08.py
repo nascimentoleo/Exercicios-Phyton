@@ -1,3 +1,7 @@
+#Questao 8
+#Leonardo Pinheiro do Nascimento
+
+
 meses = ['Janeiro', 'Fevereiro', 'Marco', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro']
 
 def lerTemperatura(meses):

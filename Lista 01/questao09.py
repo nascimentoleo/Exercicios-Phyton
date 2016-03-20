@@ -1,3 +1,6 @@
+#Questao 9
+#Leonardo Pinheiro do Nascimento
+
 def perguntar(pergunta):
 	resposta = input(pergunta + " (s)Sim (n)Nao \n")
 	if(resposta != "s" and resposta != "n"):

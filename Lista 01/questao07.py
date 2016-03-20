@@ -1,3 +1,6 @@
+#Questao 7
+#Leonardo Pinheiro do Nascimento
+
 def lerElementos(limiteMax):
 	m = []
 	for i in range(0,limiteMax):

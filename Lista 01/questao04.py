@@ -1,3 +1,6 @@
+#Questao 4
+#Leonardo Pinheiro do Nascimento
+
 def lerLetras(limiteMax):
 	m = []
 	for i in range(0,limiteMax):
