@@ -4,8 +4,7 @@ def lerInteiro(limiteMax):
 		m.append(input("Digite um numero \n"))
 	return m
 
-def mostraNumeros():
-	print(lerInteiro(5))
+def imprimeInverso():
+	print(lerInteiro(10)[::-1])
 
-mostraNumeros()		
-
+imprimeInverso()
