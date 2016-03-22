@@ -1,3 +1,5 @@
+#Questao 10
+#Leonardo Pinheiro do Nascimento
 def lerNotas():
 	nota = 0
 	m = []
