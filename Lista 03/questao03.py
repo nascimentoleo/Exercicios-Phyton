@@ -1,0 +1,1 @@
+usuarios = open("usuarios.txt")
