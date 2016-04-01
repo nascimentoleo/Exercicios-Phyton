@@ -47,6 +47,7 @@ def getLinha(numLinha, nomeDoUsuario, espacoUtilizado, espacoTotal):
 			"{:.2f}".format(espacoUtilizado).ljust(7) + " MB            " +
 			getPorcentagem(espacoUtilizado, espacoTotal).ljust(6) + "%\n")
 
+
 usuarios = lerUsuarios("usuarios.txt")
 
 criarRelatorio(usuarios)
