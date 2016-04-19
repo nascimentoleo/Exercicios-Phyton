@@ -16,7 +16,7 @@ class Conta:
         print('CC Número: %s Saldo: %10.2f \n Historico de Saques %s  \n Historico de Depositos %s ' %
                 (self.número, self.saldo, self.historicoSaques, self.historicoDepositos))
     
-    def saque(self, valor):
+    def saca(self, valor):
         if self.saldo >= valor:
             self.saldo -= valor
             self.historicoSaques.append(valor)
